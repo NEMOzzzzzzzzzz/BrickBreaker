@@ -5,3 +5,5 @@ Just a very basic Brick Breaker game using Java's built-in Applet package.
 
 Future plans are to integrate it to a web application and to add difficulty levels... 
 
+Note: It was done with the help of an online tutorial :) 
+
